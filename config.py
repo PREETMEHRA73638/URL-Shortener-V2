@@ -56,7 +56,7 @@ LINK_BYPASS = is_enabled(
 BASE_SITE = os.environ.get("BASE_SITE", "lincopro.in")
 
 # For Admin use
-CHANNELS = is_enabled((os.environ.get("CHANNELS", "True")), True)
+CHANNELS = is_enabled((os.environ.get("CHANNELS", "False")), True)
 CHANNEL_ID = (
     [int(i.strip()) for i in os.environ.get("CHANNEL_ID").split(" ")]
     if os.environ.get("CHANNEL_ID")
