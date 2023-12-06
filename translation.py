@@ -48,9 +48,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/ask_admin001)
-`🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
+`👨‍💻 Developer:` [Dev](t.me/ROYAL_GAGAN_DEEP_SINGH_MEHRA)
+`📢 Support:` [Talk Bot](https://t.me/MOVIES_VILLA_UPDATE)
+`🌐 Source Code:` [GitHub](https://t.me/MOVIES_VILLA_UPDATE)
 """
 
 
@@ -187,7 +187,7 @@ Current Mdisk API: `{}`"""
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
 `/shortener_api [api]`
             
-Ex: `/shortener_api 6LZq851sXofffPHugiKQq`
+Ex: `/shortener_api c276b0639330bfa06436c9a321aa82d7e664d586`
 
 Current Website: {base_site}
 
