@@ -39,7 +39,7 @@ avl_web = [
     "viplink.in",
     "shorturllink.in",
     "shareus.in",
-    "earnspace.in",
+    "lincopro.in",
 ]
 
 avl_web1 = "".join(f"- {i}\n" for i in avl_web)
@@ -85,7 +85,7 @@ async def help_command(c, m: Message):
         firstname=temp.FIRST_NAME,
         username=temp.BOT_USERNAME,
         repo=SOURCE_CODE,
-        owner="@ask_admin001",
+        owner="@ROYAL_GAGAN_DEEP_SINGH_MEHRA",
     )
 
     if WELCOME_IMAGE:
